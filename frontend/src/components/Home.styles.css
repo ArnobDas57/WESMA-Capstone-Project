@@ -1,0 +1,17 @@
+.login-container {
+    margin-top: 100px;
+}
+
+.login-btn {
+    height: 80px;
+    width: 250px;
+    padding: 15px;
+}
+
+.login-btn:hover {
+    background-color: rgb(104, 75, 104);
+  }
+
+.about {
+    margin-top: 350px;
+}

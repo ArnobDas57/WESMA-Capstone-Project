@@ -1,0 +1,50 @@
+h2 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.add-title {
+    margin-bottom: 30px;
+    padding: 15px;
+}
+
+.start {
+    margin-bottom: 30px;
+    padding: 15px; 
+}
+
+.end {
+    padding: 15px;
+    margin-bottom: 30px;
+}
+
+.add-event {
+    margin-bottom: 50px;
+    width: 180px;
+    height: 50px;
+    border-style: outset;
+}
+
+.add-event:hover {
+    background-color: rgb(30, 7, 65);
+}
+
+.calendar {
+    height: 500px;
+    margin: 20px; 
+}
+
+.event-add {
+    padding-top: 5px;
+    background-color: rgb(211, 189, 245);
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border-style: ridge;
+    display: inline-block;
+    width: 500px;
+}
+
+.calendar {
+    margin-bottom: 250px;
+}

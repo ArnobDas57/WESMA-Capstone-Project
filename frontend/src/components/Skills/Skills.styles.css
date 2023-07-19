@@ -1,0 +1,47 @@
+.small-btn {
+  padding: 1rem;
+  border-radius: 60px;
+  background-color: #4F2683;
+  color: white;
+  font-size: 14px;
+  border: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.skill-head{
+  margin-bottom: 2rem;
+}
+
+.skill-edit-btns{
+  display: flex;
+  justify-content: center;
+}
+
+.save-skill{
+  background-color: #4F2683;
+  color: white;
+  padding: 1rem;
+  border-radius: 60px;
+  margin-right: 3rem;
+  cursor: pointer;
+}
+
+.delete-skill{
+  background-color: red;
+  color: white;
+  padding: 1rem;
+  border-radius: 60px;
+  cursor: pointer;
+}
+
+.back-btn{
+  background-color: #4F2683;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 30px;
+  cursor: pointer;
+  width: 60px;
+}

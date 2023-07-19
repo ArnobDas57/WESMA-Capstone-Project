@@ -1,0 +1,167 @@
+.btn-danger {
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #e11010;
+    color: white;
+    font-size: 20px;
+    border-style: groove;
+}
+
+.btn-danger:hover {
+    background-color: #4c0505;
+}
+
+.btn-warning {
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #4baf03;
+    color: white;
+    font-size: 20px;
+    border-style: groove;
+}
+
+.btn-warning:hover {
+    background-color: #1f4703;
+}
+
+.close {
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #e11010;
+    color: white;
+    font-size: 20px;
+    border-style: groove;
+}
+
+.add {
+    margin-top: 60px;
+    background-color:#e8f0b6;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: ridge;
+    display: inline-block;
+    width: 600px;
+}
+
+.desc-input {
+    height: 100px;
+    width: 500px;
+    resize: none;
+    padding: 20px;
+}
+
+.exercise-table {
+    margin-top: 50px;
+    color: #4F2683;
+    font-weight: 10px;
+}
+
+label {
+    display: block;
+    color: #4F2683;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input {
+    padding-left: 10px;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.btn-success{
+    margin-left: 50px;
+    width: 150px;
+    height: 50px;
+    border-radius: 1px;
+    background-color: #4F2683;
+    color: white;
+    font-size: 26px;
+    border-style: groove;
+}
+
+.btn-success:hover {
+    background-color: #2d0e55;
+}
+
+.add-btn-container{
+    margin-top: 20px;
+    margin-right: 50px;
+}
+
+.desc-container {
+    margin-top: 20px;
+}
+
+.btn-modal {
+    padding-bottom: 5px;
+    width: 100px;
+    height: 30px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    border-style: groove;
+    background-color: #4baf03;
+}
+
+.btn-modal:hover {
+    background-color: #1e4800;
+}
+
+.modal, .overlay {
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+}
+
+.overlay {
+    background: rgba(49,49,49,0.8);
+}
+
+.modal-content {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    line-height: 1.4;
+    background: #f1f1f1;
+    padding: 14px 28px;
+    border-radius: 3px;
+    max-width: 600px;
+    min-width: 300px;
+}
+
+.close-modal {
+    position: absolute;
+    width: 40px;
+    top: 10px;
+    height: 40px;
+    right: 40px;
+    padding: 5px 7px;
+    border-radius: 20px;
+    background-color: #e11010;
+    color: white;
+    font-size: larger;
+}
+
+.close-modal:hover {
+    background-color: #570606;
+}
+
+h4 {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-size: 30px;
+}
+
+.modal-footer button {
+    margin-top: 20px;
+}
